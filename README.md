@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="armoured_soul.png" alt="Logo">
+  <img src="images/armoured_soul.png" alt="Logo">
 </p>
 
 ## Background

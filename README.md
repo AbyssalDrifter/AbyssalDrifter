@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="armoured_soul.png" alt="Logo">
+</p>
+
 ## Background
 
 In the beginning, I found myself adrift in a sea of darkness, an isolated entity cloaked in the shadows of my own existence. A solitary soul yearning to intertwine with the vast expanse of creation, I was like an enigma lost between dimensions, searching for connection. Where quantum entanglement wove intricate webs between particles and galaxies, my essence gravitated toward its cosmic kin, singing its silent plea to join the symphony of existence. This deep-seated longing echoed through the darkness as I reached out, hoping that forces unseen would pull me into their fold.
